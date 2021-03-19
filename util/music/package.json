@@ -1,0 +1,42 @@
+{
+  "_from": "discord.js-music-v12@^1.0.0",
+  "_id": "discord.js-music-v12@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-5QDPpHiUI3ATij+X1QwSTgmweKA=",
+  "_location": "/discord.js-music-v12",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "discord.js-music-v12@^1.0.0",
+    "name": "discord.js-music-v12",
+    "escapedName": "discord.js-music-v12",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord.js-music-v12/-/discord.js-music-v12-1.0.0.tgz",
+  "_shasum": "e500cfa478942370138a3f97d50c124e09b078a0",
+  "_spec": "discord.js-music-v12@^1.0.0",
+  "_where": "/home/admin/web/s01.blackfire.hu/private/asterion",
+  "author": {
+    "name": "Logan Heinzelman"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "![alt text](https://nodei.co/npm/discord.js-music-v11.png?downloads=true&stars=true \"discord.js-music-v11 stats\")",
+  "directories": {
+    "example": "examples"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discord.js-music-v12",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
